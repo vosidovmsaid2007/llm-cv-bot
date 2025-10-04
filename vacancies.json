@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "Python Developer",
+    "company": "TechCorp",
+    "location": "Москва",
+    "salary": "150,000 - 200,000 руб",
+    "description": "Разработка веб-приложений на Python и FastAPI",
+    "requirements": ["Python", "FastAPI", "SQL", "Docker"],
+    "url": "https://example.com/job1",
+    "date_posted": "2024-01-15"
+  },
+  {
+    "id": 2,
+    "title": "Data Scientist",
+    "company": "DataLab",
+    "location": "Санкт-Петербург",
+    "salary": "180,000 - 250,000 руб",
+    "description": "Анализ данных и машинное обучение",
+    "requirements": ["Python", "Machine Learning", "SQL", "Statistics"],
+    "url": "https://example.com/job2",
+    "date_posted": "2024-01-14"
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Developer",
+    "company": "WebStudio",
+    "location": "Удаленно",
+    "salary": "120,000 - 180,000 руб",
+    "description": "Разработка полного стека веб-приложений",
+    "requirements": ["Python", "JavaScript", "React", "Git"],
+    "url": "https://example.com/job3",
+    "date_posted": "2024-01-13"
+  }
+]
